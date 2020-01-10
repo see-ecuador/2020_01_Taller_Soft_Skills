@@ -1,4 +1,4 @@
-#Taller Softskills para científicos de datos
+# Taller Softskills para científicos de datos
 Sáb 11 de ene | 9am - 1 pm | UPS Sur
 | Evento gratuito | Guayaquil |
 
